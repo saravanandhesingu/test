@@ -1,0 +1,58 @@
+Overview of cloud Technology
+ Concept of cloud technology
+ Difference b/w on premises and cloud
+ Benifits of cloud 
+ Types of cloud 
+Overview of AWS
+ What is AWS
+ On Premises Vs Cloud 
+ History Of Aws
+ Who are using Cloud on AWS
+ Benefits of cloud on AWS
+AWS Architecture 
+ AWS Region 
+ AWS Zone 
+ Number of Edge Locations 
+ AWS Partner ECO system 
+ Target Customer 
+ AWS Core Services 
+  Compute services
+ EC2 Essentials 
+ Selecting and building EC2 instances
+ Working with Amazon machine Images (AMI)
+ EBS Volume and Snapshots 
+ Working on Public and Private IP Address
+ Features of EC2 
+ Pricing mode of EC2 
+ Practical Hands on of EC2 
+Network Services 
+ Introduction of AWS Networking Services 
+ VPC
+ Private and Public Subnets 
+ Internet & NAT Gateway 
+ Route Table 
+ Configuring a NAT instance
+ VPC Peering Using Bashion Host 
+ Practical Hands on VPC 
+Route 53
+ Zone Records 
+ Zone Apex Support with ELB and S3
+ Types of routing 
+ Features of Route 53
+Storage Services 
+ EBS - Elastic block store 
+ S3 - Simple storage services 
+ Glacier 
+ Elastic File Storage 
+Database Services 
+ RDS
+ DynamodB
+ RedShift 
+ Features of DB services 
+Other Aws Services 
+ ELB 
+ IAM 
+ Diaster & Recovery 
+ AWS Market place 
+ AWS Pricing 
+ AWS Calculator

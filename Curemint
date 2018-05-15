@@ -1,0 +1,16 @@
+Curemint 
+
+* switch to root user
+
+* Project Directory: /var/www/vhosts/curemint.docsteps.com/public
+
+* git pull origin master
+
+* slc build --commit --onto deploy --install
+
+* slc deploy --service=curemint.docsteps.com http://127.0.0.1:8701
+
+* slc ctl restart curemint.docsteps.com
+
+* slc ctl log-dump curemint.docsteps.com --follow
+

@@ -1,0 +1,42 @@
+Practical Logics
+Practical Logix 
+mail.gmail.com
+Username - karthick.venkatraman@practicallogix.com
+Password: karthick1234
+practicallogix.slack.com
+Username: karthick.venkatraman@practicallogix.com
+Password: bambeeq24
+practicallogix.atlassian.net
+Username: karthick.venkatraman@practicallogix.com
+Password: karthick1234
+support@practicallogix.com
+
+
+PL runbook wiki page link : https://practicallogix.atlassian.net/wiki/spaces/SYSOPS/pages/322502657/Emergency+Production+Setup
+
+
+Aws Console 
+
+A: 337734275929
+
+U: pl-sysops
+
+P: WkC^aWs01ft6
+
+http://dcos.sh-projectq.com/
+http://dcos.sh-projectq.com/marathon
+http://dcos.sh-projectq.com/mesos/#/
+
+
+
+Team,
+I have restarted the reportr and reportr-cpac services to re-initialize the tokens, also verifed them from logs.
+FYR, expiry value for reportr and reportr-cpac services
+
+reportr – 1527406932
+reportr-cpac – 1527407039
+
+
+
+
+
